@@ -1,0 +1,1 @@
+Key.cmd s c s c s a c f Key.ctrl_l Key.delete Key.enter 
